@@ -10,6 +10,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Tukubeli](https://tukubeli.xyz)
 - [Tumblr](https://stuckcode.tumblr.com)
 - [Naka Rapstar](https://github.com/Nakasz)
+- [Aditya MS](https://github.com/Aditya06)
 
 ## How to contribute
 
