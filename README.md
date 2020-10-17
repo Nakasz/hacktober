@@ -6,6 +6,8 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 ## Contributors
 
+- [Naka Rapstar](https://github.com/Nakasz)
+
 ## How to contribute
 
 - Fork this repository
