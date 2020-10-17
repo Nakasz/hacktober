@@ -6,6 +6,11 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 ## Contributors
 
+- [Stuckcode](https://stuckcode.com)
+- [Tukubeli](https://tukubeli.xyz)
+- [Tumblr](https://stuckcode.tumblr.com)
+- [Naka Rapstar](https://github.com/Nakasz)
+
 ## How to contribute
 
 - Fork this repository
