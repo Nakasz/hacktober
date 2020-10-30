@@ -11,6 +11,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Tumblr](https://stuckcode.tumblr.com)
 - [Naka Rapstar](https://github.com/Nakasz)
 - [Aditya MS](https://github.com/Aditya06)
+- [Rad304](https://github.com/rad304)
 
 ## How to contribute
 
